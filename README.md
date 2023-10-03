@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @logan-gosch
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 😁 Logan Gosch
+- Java 🍵
+- AWS ☁️
+Always looking to develop and learn more!
+
+### [LinkedIn](www.linkedin.com/in/logan-gosch-b93612179)
 
 <!---
 logan-gosch/logan-gosch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
