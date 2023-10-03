@@ -1,6 +1,7 @@
 ## 😁 Logan Gosch
 - Java 🍵
 - AWS ☁️
+
 Always looking to develop and learn more!
 
 ### [LinkedIn](https://www.linkedin.com/in/logan-gosch-b93612179)
